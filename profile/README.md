@@ -4,18 +4,16 @@ A simple tool designed to unlock, activate and manage DLCs for Euro Truck Simula
 
 ---
 
-## 🔗 Latest Release
+## 🔗 Latest Release 
 
-- **💾 v6.0.0.5**: [Releases Page]()
+- **💾 Version 5.0.0.5** – *Tool files & folders*  
+  👉 [The Latest Release](https://github.com/ETS-2-DLC-Unlocker-Manager/.github/releases)
   
 ---
 
 # Supported DLCs list:
 
-## November 2026 Update:
 - Coaches
-
-## Map Expansions
 - Going East!
 - Scandinavia
 - Vive la France !
